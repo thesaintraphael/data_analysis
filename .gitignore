@@ -11,6 +11,8 @@ __pycache__/
 *.so
 
 *.csv
+*.tsv
+data/
 
 # Distribution / packaging
 .Python
